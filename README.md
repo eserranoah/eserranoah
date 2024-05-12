@@ -38,7 +38,7 @@
 
 ###
 
-<h2 align="left">IT tools I know</h2>
+<h2 align="left">IT tools</h2>
 
 ###
 
@@ -74,7 +74,7 @@
 
 ###
 
-<h2 align="left">Design tools I master</h2>
+<h2 align="left">Design tools</h2>
 
 ###
 
